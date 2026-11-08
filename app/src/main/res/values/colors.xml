@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_053">#1E40AF</color>
+    <color name="primary_dark_053">#1E3A8A</color>
+    <color name="primary_light_053">#DBEAFE</color>
+    <color name="accent_053">#0D9488</color>
+    <color name="accent_light_053">#CCFBF1</color>
+    <color name="background_053">#F8FAFC</color>
+    <color name="surface_053">#FFFFFF</color>
+    <color name="text_primary_053">#0F172A</color>
+    <color name="text_secondary_053">#64748B</color>
+    <color name="danger_053">#DC2626</color>
+    <color name="danger_light_053">#FEE2E2</color>
+    <color name="warning_053">#D97706</color>
+    <color name="divider_053">#E2E8F0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
+
